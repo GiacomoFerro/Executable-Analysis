@@ -1,5 +1,5 @@
 # executable-analysis
-An analysis of a program to verify the correctness
+An analysis of a program to verify its correctness
 --------------------------------------------------
 ### How to run the code:
 To shell:
