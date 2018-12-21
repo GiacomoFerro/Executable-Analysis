@@ -1,7 +1,8 @@
-# executable-analysis
+# Executable-Analysis
 An analysis of a program to verify its correctness
 --------------------------------------------------
 ### How to run the code:
+
 To shell:
 
 1.  ./testGGFM: to save on the file named "outputGGFM.txt" the result of computation of GGFM with a time preload. This file will have to be analyzed.
